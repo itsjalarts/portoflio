@@ -83,8 +83,12 @@ h1 {
     height: 100vh;
 }
 
-.world {
-    height: 50vh;
+#backgrounds {
+    height: 150vh;
+}
+
+#characters {
+    height: 150vh;
 }
 
 .chara {
